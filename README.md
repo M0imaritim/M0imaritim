@@ -1,24 +1,91 @@
-<h1 align="center">Hello, I'm Langat Moimaritim</h1>
-<h3 align="center">A full-stack Developer and IoT expert.</h3>
+# Hello, I'm Langat Moimaritim 👋
+Software Engineer specializing in **Rust backend development**, distributed systems, and modern web applications, based in Nairobi, Kenya 🇰🇪.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0imaritim&label=Profile%20views&color=0e75b6&style=flat" alt="m0imaritim" /> </p>
+I build reliable, high-performance backend software — with recent focus on payment integrations, government API integrations, and developer tooling for the Kenyan market.
 
-- 🔭 I’m currently working on [Runsafi](https://runsafi.com)
+---
 
-- 👨‍💻 All of my projects are available at [https://langat-moimaritim.vercel.app/](https://langat-moimaritim.vercel.app/)
+## Current Focus
+- 🦀 Building production-grade backend services with **Rust**
+- ⚡ Developing APIs using **Axum**, **Tokio**, and **SQLx**
+- 🇰🇪 Working on fintech infrastructure — M-Pesa Daraja and KRA/eTIMS API integrations
+- 🏗️ Deepening knowledge of distributed systems, networking, and database internals
 
-- 📫 How to reach me **moimaritim@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moimaritim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moimaritim" height="30" width="40" /></a>
-</p>
+## Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### TaxSafi *(Private Repository)*
+A production KRA tax compliance platform built with Rust.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0imaritim&show_icons=true&locale=en&layout=compact" alt="m0imaritim" /></p>
+**Highlights**
+- Axum backend, Leptos frontend
+- SQLx + PostgreSQL
+- M-Pesa Daraja payment integration
+- `ServiceDefinition` registry pattern covering 20+ KRA endpoints
+- Real-time WebSocket status updates
+- PDF receipt generation
+- Production deployment
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0imaritim&show_icons=true&locale=en" alt="m0imaritim" /></p>
+### AI Coding Orchestrator *(In Development, Private)*
+A multi-agent tool for coordinating AI-assisted code changes across a codebase.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0imaritim&" alt="m0imaritim" /></p>
+**Highlights**
+- MCP (Model Context Protocol) stdio JSON-RPC communication
+- Tree-sitter semantic code parsing
+- File-level locking and checkpoint recovery
+- Modular Rust crate workspace
+
+---
+
+## Engineering Philosophy
+I care about writing software that is:
+- Reliable
+- Simple
+- Observable
+- Maintainable
+- Performant
+
+Good engineering means solving problems with clear, well-designed systems rather than unnecessary complexity.
+
+---
+
+## Primary Technologies
+**Languages**
+- Rust
+- C
+- Python
+- TypeScript
+
+**Backend**
+- Axum
+- Tokio
+- SQLx
+- PostgreSQL
+- REST APIs
+- WebSockets
+
+**Infrastructure**
+- Linux
+- Docker
+- Nginx
+- Git
+
+---
+
+## Currently Learning
+- Distributed Systems
+- Networking
+- Database Internals
+- Async Runtime Design
+- Retrieval-Augmented Generation (RAG) & vector search — building a Rust RAG API as a learning project
+
+---
+
+## Find Me
+📧 Email: **moimaritim@gmail.com**
+🌐 Portfolio: **https://langat-moimaritim.vercel.app**
+🐦 X (Twitter): **https://twitter.com/moimaritim**
+
+---
+*"Build software that is correct first, fast second, and simple always."*
