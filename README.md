@@ -1,15 +1,15 @@
 # Hello, I'm Langat Moimaritim 👋
 Software Engineer specializing in **Rust backend development**, distributed systems, and modern web applications, based in Nairobi, Kenya 🇰🇪.
 
-I build reliable, high-performance backend software — with recent focus on payment integrations, government API integrations, and developer tooling for the Kenyan market.
+I build reliable, high-performance backend software with recent focus on payment integrations, government API integrations, and developer tooling for the Kenyan market.
 
 ---
 
 ## Current Focus
-- 🦀 Building production-grade backend services with **Rust**
-- ⚡ Developing APIs using **Axum**, **Tokio**, and **SQLx**
-- 🇰🇪 Working on fintech infrastructure — M-Pesa Daraja and KRA/eTIMS API integrations
-- 🏗️ Deepening knowledge of distributed systems, networking, and database internals
+- Building production-grade backend services with **Rust**
+- Developing APIs using **Axum**, **Tokio**, and **SQLx**
+- Working on fintech infrastructure; M-Pesa Daraja and KRA/eTIMS API integrations
+- Deepening knowledge of distributed systems, networking, and database internals
 
 ---
 
